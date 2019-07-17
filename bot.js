@@ -1,3 +1,8 @@
+// todo
+//  welcome message @user reeeee
+//  memez quotes
+
+
 const Discord = require('discord.js');
 const fetch = require('isomorphic-fetch');
 const Sentiment = require('sentiment');
